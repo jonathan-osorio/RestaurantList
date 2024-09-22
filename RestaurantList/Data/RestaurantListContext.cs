@@ -34,7 +34,7 @@ namespace RestaurantList.Data
                     Id = 1,
                     Name = "DiDomenico's Pizzaria",
                     Address = "23rd Cheese St, Guancialle, NY 202428",
-                    ImageURL = ""
+                    ImageURL = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq1T6xvHKuKHyJvkj_2xNDrFQilWpbDwQxeQ&s"
                 });
             modelBuilder.Entity<Dish>()
                 .HasData(
